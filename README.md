@@ -30,6 +30,6 @@ Here are some of the projects I've worked on:
 
 Contact Me
 
-Let's connect and collaborate! Feel free to reach out to me on www.linkedin.com/in/cameronblake-dev or via email at cameronburtner@gmail.com.
+Let's connect and collaborate! Feel free to reach out to me on <a href="www.linkedin.com/in/cameronblake-dev">LinkedIn</a> or via email at cameronburtner@gmail.com.
 
 Looking forward to exploring exciting opportunities together! 🚀
