@@ -17,10 +17,10 @@ Projects
 
 Here are some of the projects I've worked on:
 
-<a href="https://github.com/cblake003/Blackjack">Blackjack</a> - A web-app game of Blackjack with my own style added to it.
-goodWines(https://goodwines-9bf6c962c400.herokuapp.com/) - A take off the app goodReads for users to review their favorite wines.
-DMC Cruises(https://dmccruises-6f1a47dff91f.herokuapp.com/) - A group collaboration of a mock-cruise website.
-Venue-Vibes(https://github.com/cblake003/venue-vibes) - A single-page full stack application using React and TicketMaster API for users to track their favorite artists' upcoming events.
+<a href="https://cblake003.github.io/Blackjack/">Blackjack</a> - A web-app game of Blackjack with my own style added to it.
+<a href="https://goodwines-9bf6c962c400.herokuapp.com/">goodWines</a> - A take off the app goodReads for users to review their favorite wines.
+<a href="https://dmccruises-6f1a47dff91f.herokuapp.com/">DMC Cruises</a> - A group collaboration of a mock-cruise website.
+<a href="https://github.com/cblake003/venue-vibes">Venue-Vibes</a> - A single-page full stack application using React and TicketMaster API for users to track their favorite artists' upcoming events.
 
 Contact Me
 
